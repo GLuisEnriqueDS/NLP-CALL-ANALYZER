@@ -2,11 +2,11 @@ Nlp-CallAnalyzer es un pipeline completo para procesar transcripciones de llamad
 
 * Características principales
 
-✔ Limpieza avanzada de texto
-✔ Lematización con spaCy
-✔ Generación de embeddings semánticos
-✔ Clustering con KMeans
-✔ Selección de documentos representativos
-✔ Análisis semántico de cada cluster con LLM
-✔ Exportación final a CSV
-✔ Pipeline optimizado para conjuntos grandes de transcripciones
+1. Limpieza avanzada de texto
+2. Lematización con spaCy
+3. Generación de embeddings semánticos
+4. Clustering con KMeans
+5. Selección de documentos representativos
+6. Análisis semántico de cada cluster con LLM
+7. Exportación final a CSV
+8. Pipeline optimizado para conjuntos grandes de transcripciones
